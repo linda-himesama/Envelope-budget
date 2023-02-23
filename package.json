@@ -1,0 +1,22 @@
+{
+  "name": "envelopes-budget",
+  "version": "1.0.0",
+  "description": "envelop budget organizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linda-himesama/Envelope-budget.git"
+  },
+  "author": "linda-himesama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linda-himesama/Envelope-budget/issues"
+  },
+  "homepage": "https://github.com/linda-himesama/Envelope-budget#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
